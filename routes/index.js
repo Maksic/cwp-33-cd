@@ -7,6 +7,7 @@ router.use('/repos', repoRouter);
 
 router.use('/ability', (req, res) => {
     res.send(req.ability.rules);
+    console.log("Auto diploy test");
 });
 
 module.exports = router;
