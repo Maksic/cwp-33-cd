@@ -16,11 +16,11 @@
             }
         },
         "production": {
-            "name": "d6knpkiq2qbsah",
-            "user": "upmqxjqpunjtlp",
-            "pass": "7dae2f13085880d34f6a7e37577908d2e4966a7af604e6b5d7b78054fa98e8bd",
+            "name": "d9gqppnsmu6opr",
+            "user": "omtjfyslnlxzqi",
+            "pass": "297511aaba08f2b0ad33c4d8cca3673b257d5210dc1d880809ad71d4be5e5679",
             "options": {
-                "host": "ec2-54-243-137-182.compute-1.amazonaws.com",
+                "host": "ec2-75-101-133-29.compute-1.amazonaws.com",
                 "port": 5432,
                 "dialect": "postgres",
                 "define": {
